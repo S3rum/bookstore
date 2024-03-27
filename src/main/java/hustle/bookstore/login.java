@@ -4,9 +4,8 @@ import javax.swing.*;
 
 public class login {
     private JPanel panel1;
-    private JTextField loginTextField;
-    private JTextField emailOrUsernameTextField;
+    private JTextField textField2;
     private JPasswordField passwordField1;
-    private JTextField passwordTextField;
-    private JPasswordField passwordField2;
+    private JButton logInButton;
+    private JButton registerNowButton;
 }
