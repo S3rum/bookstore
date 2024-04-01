@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "spring-boot",
+            "name": "BookstoreApplication",
+            "mainClass": "hustle.bookstore.BookstoreApplication",
+            "module": "",
+            
+        }
+        ,
+        
+    ]
+}
